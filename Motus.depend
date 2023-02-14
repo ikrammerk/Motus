@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1641950327 source:d:\files\desktop\motus_project_c\main.c
+	"sauvgarde_charge.h"
+	"notreBiblio.h"
+
+1642430713 d:\files\desktop\motus_project_c\sauvgarde_charge.h
+	<dirent.h>
+
+1642430539 d:\files\desktop\motus_project_c\notrebiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1642430884 source:d:\files\desktop\motus_project_c\notrebiblio.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1642430544 source:d:\files\desktop\motus_project_c\sauvgarde_charge.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1641950327 source:d:\files\desktop\sart nicolas_skitou chouaib merk ikram diop seydina\motus_project_c\main.c
+	"sauvgarde_charge.h"
+	"notreBiblio.h"
+
+1642430713 d:\files\desktop\sart nicolas_skitou chouaib merk ikram diop seydina\motus_project_c\sauvgarde_charge.h
+	<dirent.h>
+
+1642430539 d:\files\desktop\sart nicolas_skitou chouaib merk ikram diop seydina\motus_project_c\notrebiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1642430884 source:d:\files\desktop\sart nicolas_skitou chouaib merk ikram diop seydina\motus_project_c\notrebiblio.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1642430544 source:d:\files\desktop\sart nicolas_skitou chouaib merk ikram diop seydina\motus_project_c\sauvgarde_charge.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1641950327 source:d:\files\desktop\c project\motus_project_c\main.c
+	"sauvgarde_charge.h"
+	"notreBiblio.h"
+
+1642430713 d:\files\desktop\c project\motus_project_c\sauvgarde_charge.h
+	<dirent.h>
+
+1642430539 d:\files\desktop\c project\motus_project_c\notrebiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1642430884 source:d:\files\desktop\c project\motus_project_c\notrebiblio.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1642430544 source:d:\files\desktop\c project\motus_project_c\sauvgarde_charge.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
